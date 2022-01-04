@@ -16,13 +16,13 @@ body {
 footer{
     color: salmon;
     border-top: 3px solid rosybrown;
-    margin-top: 16px;
+    margin-top: 12px;
     padding: 16px 0px;
 }
 
 header {
     margin-top: 16px;
-    margin-bottom: 48px;
+    margin-bottom: 30px;
 }
 
 h1 {
@@ -58,4 +58,8 @@ button {
 
 p{
     color: black;
+}
+
+.about-p{
+    color:blueviolet;
 }
